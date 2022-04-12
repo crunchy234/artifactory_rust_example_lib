@@ -1,5 +1,5 @@
 [package]
-name = "artifactory-rust-example-lib"
+name = "artifactory_rust_example_lib"
 version = "0.1.0"
 edition = "2021"
 publish = ["artifactory"]
